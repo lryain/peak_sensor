@@ -1,0 +1,57 @@
+Partlist
+
+Exported from Dimmer_RC.brd at 2013-02-15 15:20:15
+
+EAGLE Version 6.2.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package      Library          Position (mil)        Orientation
+
+C1       4,7µF          E2-4         rcl              (2050 612.5)          R270
+C2       0,068µF        C102-064X133 rcl              (1801.1811 1196.06299) R180
+C3       4,7µF          E2-4         rcl              (1875 2250)           R90
+C4       0,068µF        C102-064X133 rcl              (200 2100)            R270
+C5       100nF          C050-024X044 rcl              (2800 1925)           R90
+C6       0,068µF        C102-064X133 rcl              (1801.1811 1471.06299) R180
+C7       0,068µF        C102-064X133 rcl              (1475 1750)           R180
+C8       0,068µF        C102-064X133 rcl              (200 700)             R90
+D1       1N4007         DO35-10      diode            (1500 2075)           R0
+D2       ZPY12V         DO41Z10      diode            (1350 1950)           R180
+D3       1N4007         DO35-10      diode            (2126.1811 1246.06299) R90
+D4       1N4007         DO35-10      diode            (1629.87402 675)      R180
+D5       1N4007         DO35-10      diode            (1500 2225)           R0
+D6       ZPY12V         DO41Z10      diode            (1275 825)            R180
+D7       1N4007         DO35-10      diode            (1725 450)            R180
+D8       SMAJ40AC       SMBJ         diode            (2806.25197 275)      R270
+F1                      SH22,5       fuse             (575 2025)            R270
+F2                      SH22,5       fuse             (575 975)             R90
+F3                      19559        fuse             (1292.12598 1281.49606) R90
+IC1      CNY17          DIL06        optocoupler      (2375 1800)           R270
+IC2      89LPC922       DIL20        micro-philips    (2975 1225)           R270
+IC3      CNY17          DIL06        optocoupler      (2475 2425)           R90
+IC4      CNY17          DIL06        optocoupler      (2500 175)            R90
+JP1                     1X02         pinhead          (3125 1925)           R90
+K1       ISP            1X06         pinhead          (3275 975)            R270
+KL1                     W237-102     con-wago-500     (250 1200)            R270
+KL2                     W237-102     con-wago-500     (250 1600)            R270
+KL3                     W237-102     con-wago-500     (3150 300)            R90
+Q1       IRFP460        TO247BV      transistor-power (1050 2300)           R270
+Q2       IRFP460        TO247BV      transistor-power (1050 350)            R270
+Q3       IRFP460        TO247BV      transistor-power (1050 1650)           R270
+Q4       IRFP460        TO247BV      transistor-power (1050 1000)           R270
+R1       1k             0204/7       rcl              (1325 275)            R90
+R2       1k             0204/7       rcl              (1926.1811 883.56299) R90
+R3       22k            0204/7       rcl              (2150 325)            R90
+R4       1k             0204/7       rcl              (1225 2500)           R180
+R5       1k             0204/7       rcl              (1800 1925)           R270
+R6       22k            0204/7       rcl              (2025 2275)           R270
+R7       10k            0204/7       rcl              (1543.75197 1018.75197) R180
+R8       1k             0204/7       rcl              (225 2450)            R180
+R9       1k             0204/7       rcl              (350 225)             R180
+R10      1k             0204/7       rcl              (2950 1975)           R90
+R11      1k             0204/7       rcl              (2950 500)            R270
+R12      10k            0204/7       rcl              (2650 1700)           R270
+R13      10k            0204/7       rcl              (2700 775)            R270
+R14      10k            0204/7       rcl              (2400 850)            R90
+SV1                     2X10         pinhead          (2550 950)            R90

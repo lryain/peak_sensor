@@ -1,0 +1,17 @@
+Modifications made by Licensee (see section 3.4.b in )
+
+Rev 1
+
+In wall LCD Switch/Scene controller for MySensors
+
+LCD screen connected to a standard MySensors node (Arduino Pro Mini with NRF24 radio). Power is coming from "In Wall AC/DC Pcb for MySensors" (https://www.openhardware.io/view/13/In-Wall-ACDC-Pcb-for-MySensors) with its own license.
+
+Functions:
+User defined switches/scenes.
+User can define how many switches/scenes to use.
+One value is fetched from controller (like outside temp) every 15min.
+Dims if user is not present
+Clock
+Automatically selects switch/scene depending on time (user setting).
+Nice logo with your name on top.
+Powered from 240v or 5v

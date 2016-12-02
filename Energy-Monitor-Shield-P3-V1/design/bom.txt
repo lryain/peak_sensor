@@ -1,0 +1,36 @@
+Assembly variant: 
+
+Part    Value             Device                    Package            Description                                   
+C1      1uF               C-EUC0805                 C0805              CAPACITOR, European symbol                    
+C3      47uF              CPOL-EU153CLV-0405        153CLV-0405        POLARIZED CAPACITOR, European symbol          
+C4      10uF              CPOL-EU153CLV-0405        153CLV-0405        POLARIZED CAPACITOR, European symbol          
+C5      10uF              CPOL-EU153CLV-0405        153CLV-0405        POLARIZED CAPACITOR, European symbol          
+C6      10uF              CPOL-EU153CLV-0405        153CLV-0405        POLARIZED CAPACITOR, European symbol          
+C7      1uF               C-EUC0805                 C0805              CAPACITOR, European symbol                    
+DISPLAY NOKIA5510LCD      NOKIA5510LCD-BLUE         NOKIA5510LCD-BLUE                                                
+IC1     4050D             4050D                     SO16               Hex non-inverting BUFFER                      
+IC2     AT25DF512C-SSHN-B 25AA080SN                 SO-08              Serial EEPROM 4K/ 8K , SPI bus                
+J2      I2C               TWIG-4P-2.0C              TWIG-4P-2.0C                                                     
+LED                       LEDCHIPLED_0805           CHIPLED_0805       LED                                           
+R1      33                R-EU_M0805                M0805              RESISTOR, European symbol                     
+R2      10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R3      10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R4      33                R-EU_M0805                M0805              RESISTOR, European symbol                     
+R5      10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R6      10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R8      10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R9      33                R-EU_M0805                M0805              RESISTOR, European symbol                     
+R10     10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R11     10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R12     10k               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R13     220               R-EU_M0805                M0805              RESISTOR, European symbol                     
+R14     220               R-EU_M0805                M0805              RESISTOR, European symbol                     
+RF1     NRF24L01MICRO     NRF24L01MICRO             MICRO-RF24                                                       
+S1      S2                SWITCH-MOMENTARY-2SIDE_EZ TACTILE-PTH-SIDEEZ Various NO switches- pushbuttons, reed, etc   
+SV1                       FE06-1                    FE06               FEMALE HEADER                                 
+SV2                       FE06-1                    FE06               FEMALE HEADER                                 
+SV3                       FE08-1                    FE08               FEMALE HEADER                                 
+SV4                       FE08-1                    FE08               FEMALE HEADER                                 
+X1      1503_02           1503_02                   1503_02            Jack connectors according to JISC 6560, 3.5 mm
+X2      1503_02           1503_02                   1503_02            Jack connectors according to JISC 6560, 3.5 mm
+X3      1503_02           1503_02                   1503_02            Jack connectors according to JISC 6560, 3.5 mm

@@ -1,0 +1,23 @@
+Modifications made by Licensee (see section 3.4.b in License.txt)
+
+Rev 1 - 5 see https://www.openhardware.io/view/13/In-Wall-ACDC-Pcb-for-MySensors
+This is a development of my first In-Wall-ACDC-Pcb-for-MySensors (Not SMD components, only axial)
+
+Rev 6 (Never produced or released gerber files)
+- Complete redesign of ACDC Pcb for MySensors with SDM components only.
+- Normal MySensors node (Atmega328p, Nrf24l01+)
+- MysX 1,4 connector
+- ICSP header
+- HLKPM01 for AC to DC with Thremal fuse, 0,2A fuse and 240v varistor.
+- SSR relay with Axial fuse
+- Better safety (More AC-DC seperation, and AC clearance/creepage).
+- Safety research (https://forum.mysensors.org/topic/4175/clearance-creepage-and-other-safety-aspects-in-mysensors-pcbs)
+- Safety recommendations: Always use this revision inside a sealed case or in an enviroment where contamination or moisture condensation not occurs.
+
+Rev 7
+- Changes in resistors and NPN transistor for relay to work better.
+- Designed 3dboxes for safety.
+- Increased AC-DC seperation (Rev 7 = 5mm)
+- AC clearance 2.5mm minimum, added millings.
+- Redesigned outer dimension/border.
+- Safety recommendations: This PCB meets the criteria of pollution level II (2,5mm (Basic) AC seperation and 5mm (Reinforced) AC-DC sepertion) and can be used where only non-conductive contamination occurs. However, occasional temporary conductivity must be expected as a result of moisture condensation. To be on the safe side - use a sealed case!

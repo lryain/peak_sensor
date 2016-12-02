@@ -1,0 +1,14 @@
+Rev: 1.0
+Author: m26872
+Date:   2016-03-15    
+ * First release
+ * Known issues
+	- The +/- of the power module has been shifted.
+	- The LED transistors (Q2 and Q3) have wrong footprint and must be placed turned 60' clockwise.
+	- The 5x20mm semi-closed fuse holder is placed 1-2mm too south and needs to be trimmed a little to fit inside enclose.
+	- The mounting hole in board middle is 0.5-1mm too small. The screw fits, but not very nicely.
+	- Fuse value (0.1A) is too low. I'd recommend a 0.3-0.5A fast fuse.
+	- The blue and yellow LEDs are a bit to bright. Increase R4 and R11 some to fix this.
+    
+	
+

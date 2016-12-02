@@ -1,0 +1,14 @@
+August 12 2016 (Scalz):
+    RollerShutterNode v1.3. 
+	Derived in two version : NRF24 smd and RFM69CW
+	
+    Features:
+		It is a board for controlling rollershutter (0-100%) and detecting end stops with ACS712 for current sense of motor. It can be used as a relay board too.
+		You can connect 3 push buttons (UP/DOWN/STOP) and/or external i2c device (for tactile, gesture...). 
+		It can control 12-220V motors.      
+   
+    Known issues: 
+		- 
+		
+
+

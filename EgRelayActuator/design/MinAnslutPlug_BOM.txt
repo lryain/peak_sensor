@@ -1,0 +1,31 @@
+Count	Reference	Value	Footprint
+6	C1 C4 C8 C9 C10 C11	0.1uF	Capacitors_SMD:C_0603																		
+1	C2	4.7uF	Capacitors_ThroughHole:C_Radial_D5_L6_P2.5																		
+2	C5 C6	22pF	Capacitors_SMD:C_0603																		
+1	C7	100uF	Capacitors_ThroughHole:C_Radial_D8_L11.5_P3.5																		
+1	D2	1N4148	Diodes_SMD:MiniMELF_Standard																		
+3	D1 D3 D4	LED	LEDs:LED-3MM																		
+1	F1	0.1A	Fuseholder5x20_horiz_SemiClosed_Casing10x25mm																		
+2	F2 F3	FUSE	Capacitors_ThroughHole:C_Disc_D6_P5																		
+1	IC1	ATMEGA328P-A	Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm																		
+1	P1	AC_out	Connect:1pin																		
+2	P2 P3	AC_in	Connect:1pin																		
+1	P4	Arduino Serial	Pin_Headers:Pin_Header_Straight_1x06																		
+1	P6	NRF24L01+	mysensors_radios:NRF24L01																		
+1	P7	ICSP RESET	Socket_Strips:Socket_Strip_Straight_1x01																		
+1	Q1	BC517	TO_SOT_Packages_THT:TO-92_Molded_Narrow																		
+2	Q2 Q3	BC546	TO_SOT_Packages_SMD:SOT-23																		
+2	R1 R2	10k	Resistors_SMD:R_0603																		
+1	R11	680	Resistors_SMD:R_0603																		
+2	R4 R13	1k	Resistors_SMD:R_0603																		
+4	R3 R5 R6 R12	100k	Resistors_SMD:R_0603																		
+2	R7 R10	47k	Resistors_SMD:R_0603																		
+1	R8	470k	Resistors_SMD:R_0603																		
+1	R9	10M	Resistors_SMD:R_0603																		
+1	RELAY1	SONGLE_RELAY	Relay_SANYOU_SRD_Series_Form_C																		
+1	SW1	SW_PUSH	Pin_Headers:Pin_Header_Straight_1x02																		
+2	TH1 TH2	THERMISTOR	Discret:R1																		
+1	U1	HX-12V400X	Pin_Headers:Pin_Header_Angled_2x02																		
+1	U2	AMS1117	ab2_sot:AB2_SOT223																		
+1	VR1	VR	Varistors:RV_Disc_D12_W3.9_P7.5																		
+1	Y1	8MHz	Crystals:Crystal_Round_Vertical_2mm																		
