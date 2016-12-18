@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<DeviceManagerConfig>
-    <tempFileDir>/tmp/CreditCloud/DeviceManager/file</tempFileDir>
-    <tempImageDir>/tmp/CreditCloud/DeviceManager/image</tempImageDir>
-</DeviceManagerConfig>
